@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Prism Cloud Docs",
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "dark": "https://i.imgur.com/qOpGLbp.png",
+    "light": "https://i.imgur.com/qOpGLbp.png"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://i.imgur.com/qOpGLbp.png",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
@@ -18,12 +18,12 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "hello@prismnodes.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://prismnodes.com/dashboard"
   },
   "tabs": [
     {
@@ -33,14 +33,9 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Panel",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "url": "https://panel.prismnodes.com/"
     },
     {
       "name": "Blog",
