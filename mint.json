@@ -31,18 +31,18 @@
       "url": "api-reference"
     }
   ],
-  "anchors": [
-    {
-      "name": "Panel",
-      "icon": "book-open-cover",
-      "url": "https://panel.prismnodes.com/"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
+  // "anchors": [
+  //   {
+  //     "name": "Panel",
+  //     "icon": "book-open-cover",
+  //     "url": "https://panel.prismnodes.com/"
+  //   },
+  //   {
+  //     "name": "Blog",
+  //     "icon": "newspaper",
+  //     "url": "https://mintlify.com/blog"
+  //   }
+  // ],
   "navigation": [
     {
       "group": "Get Started",
