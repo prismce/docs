@@ -31,18 +31,7 @@
       "url": "api-reference"
     }
   ],
-  // "anchors": [
-  //   {
-  //     "name": "Panel",
-  //     "icon": "book-open-cover",
-  //     "url": "https://panel.prismnodes.com/"
-  //   },
-  //   {
-  //     "name": "Blog",
-  //     "icon": "newspaper",
-  //     "url": "https://mintlify.com/blog"
-  //   }
-  // ],
+
   "navigation": [
     {
       "group": "Get Started",
@@ -79,8 +68,6 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+    "Discord": "https://discord.gg/prismnodes"
   }
 }
